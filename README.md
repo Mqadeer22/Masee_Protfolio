@@ -1,2 +1,2 @@
-# SQL
-Compilation of SQL Query  
+# SQL Project
+
