@@ -1,4 +1,4 @@
 # SQL Project
 
-![](Mqadeer22/SQL/blob/main/images/Map.png)
+![](images/Map.png)
 
